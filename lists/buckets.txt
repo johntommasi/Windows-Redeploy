@@ -1,0 +1,15 @@
+
+1. Ash258  
+    scoop bucket add Ash258 [https://github.com/Ash258/Scoop-Ash258.git](https://github.com/Ash258/Scoop-Ash258.git)
+2. dorado  
+    scoop bucket add dorado [https://github.com/chawyehsu/dorado](https://github.com/chawyehsu/dorado)
+3. extras 官方
+4. java
+5. main 官方
+6. nerd-fonts
+7. nonportable
+8. versions 官方
+9. winapps  
+    scoop bucket add winapps [https://github.com/WinApps-share/WinApps-bucket.git](https://github.com/WinApps-share/WinApps-bucket.git)
+10. scoopcn  
+    scoop bucket add scoopcn [https://github.com/scoopcn/scoopcn.git](https://github.com/scoopcn/scoopcn.git)
