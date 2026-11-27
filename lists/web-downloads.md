@@ -1,0 +1,9 @@
+| id  | 名称                                                                 | 地址                                                                                            | 安装来源                        |
+| --- | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | --------------------------- |
+| 1   | [jarvis-ai-calendar](https://github.com/jilmiy/jarvis-ai-calendar) | [Releases · jilmiy/jarvis-ai-calendar](https://github.com/jilmiy/jarvis-ai-calendar/releases) | GitHub                      |
+| 2   | doublecommander                                                    | https://d.appinn.com/double-commander/                                                        | scoop                       |
+| 3   | 7zip                                                               | https://7-zip.org/download.html                                                               | scoop                       |
+| 4   | ima                                                                | https://ima.qq.com/download                                                                   | https://ima.qq.com/download |
+| 5   | RunningCheeseEdge，RunningCheeseFirefox                             | https://www.lanzouo.com/b01d5rz9vi<br>https://www.lanzouo.com/b0ufrtlc                        |      官网                       |
+| 6   | unigetui                                                           | https://github.com/Devolutions/UniGetUI                                                       | GitHub                      |
+| 7   | workbuddy                                                          | https://www.workbuddy.cn                                                                        |    官网                          |
